@@ -1,0 +1,19 @@
+{
+  "name": "sqola-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mindpulation/sqola-notification.git"
+  },
+  "author": "Mindpulation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mindpulation/sqola-notification/issues"
+  },
+  "homepage": "https://github.com/Mindpulation/sqola-notification#readme"
+}
